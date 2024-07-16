@@ -5,7 +5,7 @@ from sklearn.cluster import KMeans
 from sklearn.preprocessing import StandardScaler
 
 # Load the dataset
-file_path = 'C:\\Users\\Lenovo\\Downloads\\Mall_Customers.csv'
+file_path = 'Mall_Customers.csv'
 data = pd.read_csv(file_path)
 
 
