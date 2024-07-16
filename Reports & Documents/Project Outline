@@ -1,0 +1,35 @@
+1. Introduction:
+•	Objective and Use Case
+•	Overview of the dataset
+
+2. Data Collection:
+•	Importing the dataset
+•	Brief overview of the dataset
+
+3. Data Cleaning:
+•	Handling missing values
+•	Data transformation
+•	Handling outliers
+
+4. Exploratory Data Analysis (EDA):
+•	Descriptive statistics
+•	Visualizing distributions and relationships using Matplotlib
+•	Insights from visualizations
+
+5. Customer Segmentation:
+•	Feature selection
+•	Using K-Means clustering for segmentation
+•	Evaluating cluster quality
+
+6. Visualization with Matplotlib:
+•	Visualizing clusters
+•	Detailed analysis using various plots
+
+7. Visualization with Power BI:
+•	Importing data to Power BI
+•	Creating interactive dashboards
+•	Sharing insights
+
+8. Conclusion:
+•	Summary of findings
+•	Recommendations and next steps
